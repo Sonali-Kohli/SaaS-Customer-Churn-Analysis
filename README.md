@@ -2,10 +2,10 @@
 
 Power BI | Excel
 
-Objective:
-•	The Company: "**FitFlex App**", a fast-growing, mid-stage B2C fitness software startup that offers monthly and annual app subscriptions.
-•	The Problem: The Executive Team noticed that while new user acquisition is highly successful, the **revenue is flattening** because of an accelerating customer churn rate.
-•	The Goal: Build an interactive **Power BI dashboard** to identify who is churning, when they leave, why they are leaving, and provide **three data-backed recommendations to improve user retention**
+Objective:\
+•	The Company: "**FitFlex App**", a fast-growing, mid-stage B2C fitness software startup that offers monthly and annual app subscriptions.\
+•	The Problem: The Executive Team noticed that while new user acquisition is highly successful, the **revenue is flattening** because of an accelerating customer churn rate.\
+•	The Goal: Build an interactive **Power BI dashboard** to identify who is churning, when they leave, why they are leaving, and provide **three data-backed recommendations to improve user retention**\
 
 <img width="3780" height="1073" alt="dashboard" src="https://github.com/user-attachments/assets/deab20b9-7582-42a3-8450-ddbf9bd71285" />
 
