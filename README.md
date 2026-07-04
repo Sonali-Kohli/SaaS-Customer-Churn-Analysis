@@ -1,6 +1,6 @@
 # SaaS-Customer-Churn-Analysis
 
-Power BI | Excel
+### Power BI | Excel
 
 Objective:\
 •	The Company: "**FitFlex App**", a fast-growing, mid-stage B2C fitness software startup that offers monthly and annual app subscriptions.\
